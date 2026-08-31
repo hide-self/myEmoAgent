@@ -1,6 +1,6 @@
 # 论文原型
 
-《EmoAgent: A Multi-Agent Framework for Diverse Affective Image Manipulation》
+《EmoAgent: A Multi-Agent Framework for Diverse Affective Image Manipulation》[IEEE, 2025]
 
 解决D-AIM问题(Diverse Affection Image Manipulation)
 
