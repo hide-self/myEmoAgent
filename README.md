@@ -141,7 +141,7 @@ python -c "import torch; print(torch.__version__, torch.version.cuda)"
 
 **定量分析**
 
-Emo-A=38%，Emo-S=0.1849
+Emo-A=68%，Emo-S=0.3849
 
 **定性分析**
 
